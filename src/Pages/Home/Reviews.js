@@ -15,7 +15,7 @@ const Reviews = () => {
             location: 'California'
         },
         {
-            _id: 3,
+            _id: 2,
             review: 'It is a long established fact that by the readable content of a lot layout. The point of using Lorem a more-or-less normal distribu to using Content here, content',
             img: people2,
             name: "Winson Henrry",
